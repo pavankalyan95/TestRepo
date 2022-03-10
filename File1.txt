@@ -1,5 +1,5 @@
-File1 created
-Creating multiple commits
+File1 created.
+Creating multiple commits.
 
-Modification for difference
-difference
+Modification for difference.
+difference.
